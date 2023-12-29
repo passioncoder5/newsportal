@@ -1,4 +1,4 @@
-# Newsportal-Project
+# Not secure Newsportal-Project but easy to understand
 Built using HTML,CSS,PHP
 for ubuntu or any linux based os users follow below 
 need to install XAMPP
